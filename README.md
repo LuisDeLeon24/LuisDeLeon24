@@ -6,8 +6,6 @@ Full Stack Developer
 
 I’m a Computer Science student from Guatemala focused on building a global career in technology.
 
-My interests lie at the intersection of software engineering, cybersecurity, and emerging technologies like AI. I enjoy working on projects that combine problem-solving with real-world impact, from web applications to data-driven systems and technical research.
-
 Currently, I’m developing skills in fullstack development (JavaScript, React, Node.js), while also exploring areas such as networking, operating systems, and OSINT. I’m particularly interested in understanding how systems work at a deeper level, not just using tools, but mastering the fundamentals behind them.
 
 I actively participate in hackathons, tech events, and developer communities, where I collaborate, build, and continuously push my limits. I’m driven by the goal of working in high-impact environments, from top tech companies to advanced research and defense-related fields.
